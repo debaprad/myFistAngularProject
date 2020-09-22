@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myFistAngularProject"
+    }
+  },
+  "defaultProject": "myFistAngularProject",
+  "cli": {
+    "analytics": false
+  }
 }
